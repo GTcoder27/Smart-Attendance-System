@@ -1,0 +1,33 @@
+.card-content {
+  height: auto;
+  white-space: pre-wrap;
+}
+
+.card-content::-webkit-scrollbar {
+  width: 10px;
+
+}
+
+/* Track */
+.card-content::-webkit-scrollbar-track {
+  background: rgb(187 247 208);
+}
+
+/* Handle */
+.card-content::-webkit-scrollbar-thumb {
+  background: rgb(96 165 250);
+}
+::-webkit-scrollbar {
+  width: 10px;
+
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: rgb(187 247 208);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(96 165 250);
+}
